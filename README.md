@@ -1,3 +1,5 @@
+# Portfolio
+
 ## Projects
 - [Predictive Models for Credit Fraud Prevention ](https://rawcdn.githack.com/GHtjm/Predictive-Models-for-Credit-Fraud-Prevention/90ec01bd96b33f3a66c9542b18567786161377f4/creditcardfraudknit.html)
 - [World Population Growth Analysis]()
@@ -6,6 +8,7 @@
 - [PowerBI Macroeconomics Dashboard]() 
 - [Numerical Solutions of Partial Differential Equations]() 
 - [Statistical Analysis of Car Manufacturers and Their Environmental Effects]()
+- 
 ## Education
 **BSC, Mathematics, 2:1 | Aberystwyth University**
 #### Relevent modules studied:
@@ -18,11 +21,10 @@
 
 ## Technical Skills
 Python, R, SQL
-
-### Financial Analysis
-### Data Analysis
-### Business Analysis
-### Data Science
+Financial Analysis
+Data Analysis
+Business Analysis
+Data Science
 
 
 
