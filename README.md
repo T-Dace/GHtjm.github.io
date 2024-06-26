@@ -2,18 +2,21 @@
 
 ### Education
 Mathematics, BSC
+### Projects
+- Predictive Models for Credit Fraud Prevention
+- World Population Growth Analysis
+- Financial Modelling using Excel
+- PySpark Data Processing and SQL Analysis
+- PowerBI Macroeconomics Dashboard
+- Numerical Solutions of Partial Differential Equations
+- Statistical Analysis of Car Manufacturers and Their Environmental Effects
 
-### Work Experience
-Business analyst
-- Project 1
-- Project ...
+### Financial Analysis
+### Data Analysis
+### Business Analysis
+### Data Science
 
-- ### Projects
-- 1
-- 2
-- 3
-- 4
-- 5
 
-- 
+
+
 GHtjm.github.io/portfolio
