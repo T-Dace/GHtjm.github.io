@@ -7,7 +7,7 @@
 - [Numerical Solutions of Partial Differential Equations]() 
 - [Statistical Analysis of Car Manufacturers and Their Environmental Effects]()
 ## Education
-BSC, Mathematics, 2:1 | Aberystwyth University
+**BSC, Mathematics, 2:1 | Aberystwyth University
 #### Relevent modules studied:
 - [Numerical Analysis](https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/)
 - [Applied Statistics](https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/)
@@ -15,7 +15,6 @@ BSC, Mathematics, 2:1 | Aberystwyth University
 - [Numerical Solutions of Partial Differential Equations](https://www.aber.ac.uk/en/modules/2021/MA34710/)
 - [Graphs and Networks](https://www.aber.ac.uk/en/modules/deptcurrent/MA32410/AB2/)
 - [Mathematical Models of Biological Systems](https://www.aber.ac.uk/en/modules/2022/MA34810/)
-
 
 ## Technical Skills
 Python, R, SQL
