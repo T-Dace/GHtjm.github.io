@@ -4,7 +4,7 @@
 - [Financial Modelling using Excel]() 
 - [PySpark Data Processing and SQL Analysis]()
 - [PowerBI Macroeconomics Dashboard]() 
-- [Numerical Solutions of Partial Differential Equations]() 
+- [Numerical Solutions of Partial Differential Equations](https://github.com/GHtjm/GHtjm.github.io/blob/main/NUMERICAL%20PDEs.pdf) 
 - [Statistical Analysis of Car Manufacturers and Their Environmental Effects]()
 ### Currently working on:
 - Tool to determine cheapest local online takeaways
