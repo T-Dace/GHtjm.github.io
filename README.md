@@ -8,7 +8,7 @@
 - [Statistical Analysis of Car Manufacturers and Their Environmental Effects]()
 ### Currently working on:
 - Tool to determine cheapest local online takeaways
-- Fantasy premier league dashboard with predictive modelling
+- Fantasy premier league dashboard with a predictive modelling tool
 ## Education
 **BSC, Mathematics, 2:1 | Aberystwyth University**
 #### Relevent modules studied:
