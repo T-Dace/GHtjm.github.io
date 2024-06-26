@@ -24,5 +24,6 @@ Data Analysis
 Business Analysis
 Data Science
 
+###### References available upon request as this portfolio is publicly available 
 
 
