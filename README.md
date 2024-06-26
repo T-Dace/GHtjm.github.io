@@ -1,6 +1,6 @@
 # Data Scientist
 
-####Technical Skills: Python, R, SQL
+#### Technical Skills: Python, R, SQL
 
 ## Education
 BSC, Mathematics, 2:1 | Aberystwyth University
