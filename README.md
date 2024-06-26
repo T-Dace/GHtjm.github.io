@@ -6,7 +6,9 @@
 - [PowerBI Macroeconomics Dashboard]() 
 - [Numerical Solutions of Partial Differential Equations]() 
 - [Statistical Analysis of Car Manufacturers and Their Environmental Effects]()
-
+### Currently working on:
+- Tool to determine cheapest local online takeaways
+- Fantasy premier league dashboard with predictive modelling
 ## Education
 **BSC, Mathematics, 2:1 | Aberystwyth University**
 #### Relevent modules studied:
