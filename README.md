@@ -8,7 +8,7 @@
 - [PowerBI Macroeconomics Dashboard]() 
 - [Numerical Solutions of Partial Differential Equations]() 
 - [Statistical Analysis of Car Manufacturers and Their Environmental Effects]()
-- 
+
 ## Education
 **BSC, Mathematics, 2:1 | Aberystwyth University**
 #### Relevent modules studied:
