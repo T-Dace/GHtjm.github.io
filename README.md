@@ -21,5 +21,3 @@ BSC, Mathematics, 2:1 | Aberystwyth University
 
 
 
-
-GHtjm.github.io/portfolio
