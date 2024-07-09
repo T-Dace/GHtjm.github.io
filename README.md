@@ -1,21 +1,7 @@
 # Portfolio
 
 ### Profile
-I'm a highly motivated mathematics graduate with a passion for data-oriented problem solving. 
-
-I've built a strong foundation of problem solving and solution analysis capability over years of mathematics education while working on data-driven projects that have equipped me with exceptional problem-solving skills and understanding of quantitative analysis.
-
-
-I'm highly competitive, constantly seeking to better myself and achieve the best possible result while aiming to outperform expectations. I'm a relentless problem solver.
-
-
-
-I excel at translating complex data into clear and concise narratives, ensuring a clear understanding for either a technical or non-technical audience.
-
-
-
-My greatest quality is that I have a strong desire to learn and continually improve, I hyperfocus on learning technical subjects and I actively seek new knowledge and skills to enhance my technical capabilities and be the best version of me possible.
-<br>
+I'm a well-versed and confident data analyst that is oriented towards data-driven problem solving and solution analysis. Throughout my education, work experience and project work I've developed a strong foundation in quantitative analysis that allows me to confidently and efficaciously problem solve. I'm proficient in a variety of data analysis tools and programming languages and I adapt quickly to new workflows, thriving in team environments. My work ethic is relentless and I possess well tested time management skills to succeed tight deadlines. I excel at simplifying complex data for technical and non technical audiences and I strive for self improvement and excellence.
 
 ### Projects
 - [Predictive Models for Credit Fraud Prevention ](https://html-preview.github.io/?url=https://github.com/GHtjm/GHtjm.github.io/blob/main/creditcardfraudknit.html)
