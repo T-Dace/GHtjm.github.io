@@ -34,7 +34,10 @@ Python, R, SQL
 - A Fantasy premier league dashboard with a predictive modelling tool
 
 ### What i'm currently studying: 
-- NoSQL (MongoDB), Deep learning techniques, Technical Analysis
+- Advanced statistical analysis techniques for complex data
+- NoSQL (MongoDB)
+- Deep learning techniques
+- Technical Analysis
 
 ### My Interests and Hobbies: 
 - Football (Wolverhampton Wanderers)
