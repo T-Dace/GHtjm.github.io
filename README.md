@@ -1,6 +1,6 @@
 # Portfolio
 
-#Profile
+# Profile
 I'm a highly motivated mathematics graduate with a passion for data-oriented problem solving. 
 I've built a strong foundation of problem solving and solution analysis capability over years of mathematics education while working on data-driven projects that have equipped me with exceptional problem-solving skills and understanding of quantitative analysis.
 I'm technically proficient, highly adaptable and eager to learn new data analysis tools, techniques and programming languages, that would allow me to seamlessly fit into any team's existing workflow. 
