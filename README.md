@@ -21,6 +21,7 @@
 ### Technical Skills
 Python, R, SQL
 
+<hr size=20>
 
 # About me
 
@@ -32,10 +33,16 @@ Python, R, SQL
 - NoSQL (MongoDB), Deep learning techniques, Technical Analysis
 
 ### My Interests and Hobbies (outside of academia): 
-- Football (Wolverhampton Wanderers) Boxing, Mixed Martial Arts, Poker, Gaming (Casual gaming with friends over competitive gaming now adays), Investing and securities trading, Theoretical Physics and Philosophy
+- Football (Wolverhampton Wanderers)
+- Boxing
+- Mixed Martial Arts
+- Poker
+- Gaming (Casual gaming with friends over competitive gaming now adays)
+- Investing and securities trading
+- Theoretical Physics and Philosophy
 
 ### My 10 Year life plans
-- Become fluent in a second language (Spanish/Arabic/Mandarin/Russian/German/Norweigan)
+- Become fluent in atleast three different languages (Spanish/Arabic/Mandarin/Russian/German/Norweigan)
 - Begin work on developing a completely offgrid property, self-teaching the relevent trades needed to achieve it
 
 ###### References available upon request
