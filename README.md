@@ -1,4 +1,5 @@
-## Projects
+# Portfolio
+### Projects
 - [Predictive Models for Credit Fraud Prevention ](https://html-preview.github.io/?url=https://github.com/GHtjm/GHtjm.github.io/blob/main/creditcardfraudknit.html)
 - [World Population Growth Analysis]()
 - [Financial Modelling using Excel]() 
@@ -7,7 +8,7 @@
 - [Numerical Solutions of Partial Differential Equations](https://github.com/GHtjm/GHtjm.github.io/blob/main/NUMERICAL%20PDEs.pdf) 
 - [Statistical Analysis of Car Manufacturers and Their Environmental Effects]()
 
-## Education
+### Education
 **BSC, Mathematics, 2:1 | Aberystwyth University**
 #### Relevent modules studied:
 - [Numerical Analysis](https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/)
@@ -17,23 +18,23 @@
 - [Graphs and Networks](https://www.aber.ac.uk/en/modules/deptcurrent/MA32410/AB2/)
 - [Mathematical Models of Biological Systems](https://www.aber.ac.uk/en/modules/2022/MA34810/)
 
-## Technical Skills
+### Technical Skills
 Python, R, SQL
 
 
 # About me
 
-## Currently working on:
+### What i'm currently working on:
 - A tool to determine cheapest local online takeaways (with a website to host it on)
 - A Fantasy premier league dashboard with a predictive modelling tool
 
-## Currently studying: 
+### What i'm currently studying: 
 - NoSQL (MongoDB), Deep learning, Technical Analysis
 
-## Interests and Hobbies (outside of academia): 
+### My Interests and Hobbies (outside of academia): 
 - Football (Wolverhampton Wanderers) Boxing, Mixed Martial Arts, Poker, Gaming (Casual gaming with friends over competitive gaming now adays), Investing and securities trading, Theoretical Physics and Philosophy
 
-## 10 Year plans
+### My 10 Year life plans
 - Become fluent in a second language (Spanish/Arabic/Mandarin/Russian/German/Norweigan)
 - Begin work on developing a completely offgrid property, self-teaching the relevent trades needed to achieve it
 
