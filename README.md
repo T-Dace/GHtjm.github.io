@@ -32,7 +32,7 @@ Python, R, SQL
 ### What i'm currently studying: 
 - NoSQL (MongoDB), Deep learning techniques, Technical Analysis
 
-### My Interests and Hobbies (outside of academia): 
+### My Interests and Hobbies: 
 - Football (Wolverhampton Wanderers)
 - Boxing
 - Mixed Martial Arts
@@ -41,10 +41,10 @@ Python, R, SQL
 - Investing and securities trading
 - Theoretical Physics and Philosophy
 
-### My 10 Year life plans
+### My 10 Year goals
 - Become fluent in atleast three different languages (Spanish/Arabic/Mandarin/Russian/German/Norweigan)
 - Begin work on developing a completely offgrid property, self-teaching the relevent trades needed to achieve it
-
+- Build towards a strong trading and investment portfolio 
 ###### References available upon request
 
 
