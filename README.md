@@ -2,13 +2,22 @@
 
 ### Profile
 I'm a highly motivated mathematics graduate with a passion for data-oriented problem solving. 
+<br>
 I've built a strong foundation of problem solving and solution analysis capability over years of mathematics education while working on data-driven projects that have equipped me with exceptional problem-solving skills and understanding of quantitative analysis.
+<br>
 I'm technically proficient, highly adaptable and eager to learn new data analysis tools, techniques and programming languages, that would allow me to seamlessly fit into any team's existing workflow. 
+<br>
 I'm highly competitive, constantly seeking to better myself and achieve the best possible result while aiming to outperform expectations. I'm a relentless problem solver.
-I'm a team player who will motivate and get the best out of those around me while simultaneously being open to guiding others and receiving guidance myself
+<br>
+I'm a team player who will motivate and get the best out of those around me while simultaneously being open to guiding others and receiving guidance myself.
+<br>
 I excel at translating complex data into clear and concise narratives, ensuring a clear understanding for either a technical or non-technical audience.
+<br>
 I have a strong work ethic, with excellent time management skills learned throughout my degree and work experience I can commit confidently to tight deadlines, I'm highly organised who proficiently self manages.
+<br>
 My greatest quality is that I have a strong desire to learn and continually improve, I hyperfocus on learning technical subjects and I actively seek new knowledge and skills to enhance my technical capabilities and be the best version of me possible.
+<br>
+
 ### Projects
 - [Predictive Models for Credit Fraud Prevention ](https://html-preview.github.io/?url=https://github.com/GHtjm/GHtjm.github.io/blob/main/creditcardfraudknit.html)
 - [World Population Growth Analysis]()
