@@ -6,9 +6,7 @@
 - [PowerBI Macroeconomics Dashboard]() 
 - [Numerical Solutions of Partial Differential Equations](https://github.com/GHtjm/GHtjm.github.io/blob/main/NUMERICAL%20PDEs.pdf) 
 - [Statistical Analysis of Car Manufacturers and Their Environmental Effects]()
-### Currently working on:
-- A tool to determine cheapest local online takeaways (with a website to host it on)
-- A Fantasy premier league dashboard with a predictive modelling tool
+
 ## Education
 **BSC, Mathematics, 2:1 | Aberystwyth University**
 #### Relevent modules studied:
@@ -21,6 +19,23 @@
 
 ## Technical Skills
 Python, R, SQL
+
+
+# About me
+
+## Currently working on:
+- A tool to determine cheapest local online takeaways (with a website to host it on)
+- A Fantasy premier league dashboard with a predictive modelling tool
+
+## Currently studying: 
+- NoSQL (MongoDB), Deep learning, Technical Analysis
+
+## Interests and Hobbies (outside of academia): 
+- Football (Wolverhampton Wanderers) Boxing, Mixed Martial Arts, Poker, Gaming (Casual gaming with friends over competitive gaming now adays), Investing and securities trading, Theoretical Physics and Philosophy
+
+## 10 Year plans
+- Become fluent in a second language (Spanish/Arabic/Mandarin/Russian/German/Norweigan)
+- Begin work on developing a completely offgrid property, self-teaching the relevent trades needed to achieve it
 
 ###### References available upon request
 
