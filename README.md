@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Profile
-I’m a highly confident and skilled data analyst who is strongly oriented towards data-driven problem solving and solution analysis. Throughout my education, work experience, and project work, I’ve developed a strong foundation in quantitative analysis that allows me to confidently and efficaciously solve problems. I’m proficient in a variety of data analysis tools and programming languages, and I adapt quickly to new workflows, thriving in team environments. My work ethic is relentless, and I possess well-tested time management skills to meet tight deadlines. I excel at simplifying complex data for technical and non-technical audiences, and I strive for self-improvement and excellence.
+I’m a well-versed and confident data analyst who is oriented towards data-driven problem solving. Throughout my education, work, and project experience, I've built a strong foundation in quantitative analysis, gaining proficiency in Python, R, and SQL. I have a relentless work ethic that is demonstrated by my ability to efficaciously succeed tight deadlines, adapt to new workflows, and to thrive in collaborative environments, where I effectively contribute towards team achievements. I excel at simplifying complex data for technical and non-technical audiences, striving for continuous self-improvement and excellence in delivering insightful solutions.
 
 ### Projects
 - [Predictive Models for Credit Fraud Prevention ](https://html-preview.github.io/?url=https://github.com/GHtjm/GHtjm.github.io/blob/main/creditcardfraudknit.html)
