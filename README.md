@@ -1,5 +1,5 @@
 ## Projects
-- [Predictive Models for Credit Fraud Prevention ](https://rawcdn.githack.com/GHtjm/Predictive-Models-for-Credit-Fraud-Prevention/90ec01bd96b33f3a66c9542b18567786161377f4/creditcardfraudknit.html)
+- [Predictive Models for Credit Fraud Prevention ](https://html-preview.github.io/?url=https://github.com/GHtjm/GHtjm.github.io/blob/main/creditcardfraudknit.html)
 - [World Population Growth Analysis]()
 - [Financial Modelling using Excel]() 
 - [PySpark Data Processing and SQL Analysis]()
