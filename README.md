@@ -7,8 +7,8 @@
 - [Numerical Solutions of Partial Differential Equations](https://github.com/GHtjm/GHtjm.github.io/blob/main/NUMERICAL%20PDEs.pdf) 
 - [Statistical Analysis of Car Manufacturers and Their Environmental Effects]()
 ### Currently working on:
-- Tool to determine cheapest local online takeaways
-- Fantasy premier league dashboard with a predictive modelling tool
+- A tool to determine cheapest local online takeaways (with a website to host it on)
+- A Fantasy premier league dashboard with a predictive modelling tool
 ## Education
 **BSC, Mathematics, 2:1 | Aberystwyth University**
 #### Relevent modules studied:
@@ -22,6 +22,6 @@
 ## Technical Skills
 Python, R, SQL
 
-###### References available upon request as this portfolio is publicly available 
+###### References available upon request
 
 
