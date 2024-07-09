@@ -31,7 +31,7 @@ Python, R, SQL
 
 ### What i'm currently working on:
 - A tool to determine cheapest local online takeaways (with a website to host it on)
-- A Fantasy premier league dashboard with a predictive modelling tool
+- A Fantasy premier league dashboard with a predictive modelling tool and multi-sourced data pipeline
 
 ### What i'm currently studying: 
 - Advanced statistical analysis techniques for complex data
