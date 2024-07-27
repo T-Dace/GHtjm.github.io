@@ -5,7 +5,7 @@ I’m a well-versed and confident data analyst who is oriented towards data-driv
 
 ### Projects
 - [Predictive Models for Credit Fraud Prevention ](https://html-preview.github.io/?url=https://github.com/GHtjm/GHtjm.github.io/blob/main/creditcardfraudknit.html)
-- [World Population Growth Analysis]()
+- [World Population Growth Analysis](https://html-preview.github.io/?url=https://github.com/GHtjm/GHtjm.github.io/blob/main/world%20pop%20growth.py)
 - [Financial Modelling using Excel]() 
 - [PySpark Data Processing and SQL Analysis]()
 - [PowerBI Macroeconomics Dashboard]() 
