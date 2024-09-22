@@ -4,17 +4,17 @@
 I’m a well-versed and enthusiastic data analyst who is oriented towards problem solving through usage of data science. Throughout my education, work, and project experience, I've built a strong foundation in quantitative analysis, gaining proficiency in Python, R, and SQL. I have a relentless work ethic that is demonstrated by my ability to efficaciously succeed tight deadlines, adapt to new workflows, and thrive in collaborative environments, Shown by my Internship responsibility and university coursework. I excel at simplifying complex data for technical and non-technical audiences, striving for continuous self-improvement and excellence in delivering insightful solutions and education.
 
 ### Projects
-- [Machine Learning Models for Detecting Credit Card Fraud](Read Me)(Code)(Evaluation)
-- [COVID-19 Trend Analysis and Visualisations Dashboard](Read Me)(Code)(Evaluation)
-- [Optimising Business Data with SQL Database Manipulation](Read Me)(Code)(Evaluation)
+- Machine Learning Models for Detecting Credit Card Fraud [Read Me][Code][Evaluation]
+- COVID-19 Trend Analysis and Visualisations Dashboard [Read Me][Code][Evaluation]
+- Optimising Business Data with SQL Database Manipulation [Read Me][Code][Evaluation]
 
 
 ### Education
-** BSC, Mathematics, 2:1 | Aberystwyth University **
+**BSC, Mathematics, 2:1 | Aberystwyth University**
 ### Certification
-** Introduction to Machine Learning on AWS - AWS **
-** Machine learning and AI with Python - HarvardX **
-** Data visualisation and building Dashboards with Excel and Cognos - IBM **
+**Introduction to Machine Learning on AWS | AWS**
+**Machine learning and AI with Python | HarvardX**
+**Data visualisation and building Dashboards with Excel and Cognos | IBM**
 #### Relevent modules studied:
 - [Numerical Analysis](https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/)
 - [Applied Statistics](https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/)
