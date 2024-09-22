@@ -26,11 +26,11 @@ BSC, Mathematics, 2:1  Aberystwyth University
 
 ### Technical Skills
 #### Programming: 
-Python, PySpark, R, SQL 
+- Python, PySpark, R, SQL 
 #### Libraries: 
-SciPy, NumPy, Matplotlib, Pandas, SciKit, pROC, randomForest, ggplot2, dplyr, corrplot, caret, ROCR, AdaBoost, CatBoost, XGBoost, LightGBM 
+- SciPy, NumPy, Matplotlib, Pandas, SciKit, pROC, randomForest, ggplot2, dplyr, corrplot, caret, ROCR, AdaBoost, CatBoost, XGBoost, LightGBM 
 #### Tools: 
-Power BI, Tableau, Access, Excel, Azure, AWS, SQL Server, Qlik
+- Power BI, Tableau, Access, Excel, Azure, AWS, SQL Server, Qlik
 
 #### Old Projects
 - [Numerical Solutions to Partial Differential Equations]()
