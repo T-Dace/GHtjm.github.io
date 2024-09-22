@@ -11,7 +11,7 @@ I’m a well-versed and enthusiastic data analyst who is oriented towards proble
 
 ### Education
 - **BSC, Mathematics, 2:1 | Aberystwyth University**
-#### Relevent modules studied:
+- #### Relevent modules studied:
 - [Numerical Analysis](https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/)
 - [Applied Statistics](https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/)
 - [Distributions and Estimation](https://www.aber.ac.uk/en/modules/deptcurrent/MA26010/AB1/)
@@ -20,17 +20,14 @@ I’m a well-versed and enthusiastic data analyst who is oriented towards proble
 - [Mathematical Models of Biological Systems](https://www.aber.ac.uk/en/modules/2022/MA34810/)
 
 - ### Certifications
-- **Introduction to Machine Learning on AWS | AWS**
-- **Machine learning and AI with Python | HarvardX**
-- **Data visualisation and building Dashboards with Excel and Cognos | IBM**
+-**Introduction to Machine Learning on AWS | AWS**
+-**Machine learning and AI with Python | HarvardX**
+-**Data visualisation and building Dashboards with Excel and Cognos | IBM**
 
 ### Technical Skills
-Programming: 
-- Python, PySpark, R, SQL 
-Libraries: 
-- SciPy, NumPy, Matplotlib, Pandas, SciKit, pROC, randomForest, ggplot2, dplyr, corrplot, caret, ROCR, AdaBoost, CatBoost, XGBoost, LightGBM 
-Tools: 
-- Power BI, Tableau, Access, Excel, Azure, AWS, SQL Server, Qlik
+- Programming: Python, PySpark, R, SQL 
+- Libraries: SciPy, NumPy, Matplotlib, Pandas, SciKit, pROC, randomForest, ggplot2, dplyr, corrplot, caret, ROCR, AdaBoost, CatBoost, XGBoost, LightGBM 
+- Tools: Power BI, Tableau, Access, Excel, Azure, AWS, SQL Server, Qlik
 
 
 <hr size=20>
