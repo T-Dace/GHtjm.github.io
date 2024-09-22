@@ -10,8 +10,8 @@ I’m a well-versed and enthusiastic data analyst who is oriented towards proble
 
 
 ### Education
-- BSC, Mathematics, 2:1  Aberystwyth University
-- #### Relevant modules studied:
+BSC, Mathematics, 2:1  Aberystwyth University
+#### Relevant modules studied:
 - [Numerical Analysis](https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/)
 - [Applied Statistics](https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/)
 - [Distributions and Estimation](https://www.aber.ac.uk/en/modules/deptcurrent/MA26010/AB1/)
