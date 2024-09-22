@@ -37,6 +37,7 @@ BSC, Mathematics, 2:1  Aberystwyth University
 #### Tools: 
 - Power BI, Tableau, Access, Excel, Azure, AWS, SQL Server, Qlik
 
+<hr size=20>
 #### Old Projects
 - [Numerical Solutions to Partial Differential Equations]()
 - [Financial Modelling and Projections]()
@@ -44,7 +45,6 @@ BSC, Mathematics, 2:1  Aberystwyth University
 - [British Macroeconomics data analysis dashboard]()
 - [World population growth analysis]()
 - [University projects]()
-<hr size=20>
 ###### References available upon request
 
 
