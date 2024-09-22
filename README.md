@@ -9,6 +9,7 @@ I’m a well-versed and enthusiastic data analyst who is oriented towards proble
 - [Optimising Business Data with SQL Database Manipulation](https://github.com/GHtjm/Optimising-Business-Data-with-SQL-Database-Manipulation) 
 
 
+<hr size=20>
 ### Education
 BSc Mathematics 2:1,  Aberystwyth University
 #### Relevant modules studied:
@@ -26,6 +27,7 @@ BSc Mathematics 2:1,  Aberystwyth University
 - Machine learning and AI with Python, HarvardX
 - Data visualisation and building Dashboards with Excel and Cognos, IBM
 
+<hr size=20>
 ### Technical Skills
 
 #### Programming: 
