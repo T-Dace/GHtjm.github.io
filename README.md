@@ -10,7 +10,7 @@ I’m a well-versed and enthusiastic data analyst who is oriented towards proble
 
 
 ### Education
-- BSC, Mathematics, 2:1 | Aberystwyth University
+- BSC, Mathematics, 2:1  Aberystwyth University
 - #### Relevant modules studied:
 - [Numerical Analysis](https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/)
 - [Applied Statistics](https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/)
@@ -20,16 +20,22 @@ I’m a well-versed and enthusiastic data analyst who is oriented towards proble
 - [Mathematical Models of Biological Systems](https://www.aber.ac.uk/en/modules/2022/MA34810/)
 
 ### Certifications
--Introduction to Machine Learning on AWS | AWS
--Machine learning and AI with Python | HarvardX
--Data visualisation and building Dashboards with Excel and Cognos | IBM
+-Introduction to Machine Learning on AWS, AWS
+-Machine learning and AI with Python, HarvardX
+-Data visualisation and building Dashboards with Excel and Cognos, IBM
 
 ### Technical Skills
 - Programming: Python, PySpark, R, SQL 
 - Libraries: SciPy, NumPy, Matplotlib, Pandas, SciKit, pROC, randomForest, ggplot2, dplyr, corrplot, caret, ROCR, AdaBoost, CatBoost, XGBoost, LightGBM 
 - Tools: Power BI, Tableau, Access, Excel, Azure, AWS, SQL Server, Qlik
 
-
+### Old Projects
+- [Numerical Solutions to Partial Differential Equations]()
+- [Financial Modelling and Projections]()
+- [Data Processing and Analysis using PySpark and PostgreSQL]()
+- [British Macroeconomics data analysis dashboard]()
+- [World population growth analysis]()
+- [University projects]()
 <hr size=20>
 ###### References available upon request
 
