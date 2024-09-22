@@ -19,7 +19,7 @@ BSC, Mathematics, 2:1  Aberystwyth University
 - [Graphs and Networks](https://www.aber.ac.uk/en/modules/deptcurrent/MA32410/AB2/)
 - [Mathematical Models of Biological Systems](https://www.aber.ac.uk/en/modules/2022/MA34810/)
 
-### Certifications
+#### Certifications:
 - Introduction to Machine Learning on AWS, AWS
 - Machine learning and AI with Python, HarvardX
 - Data visualisation and building Dashboards with Excel and Cognos, IBM
@@ -32,7 +32,7 @@ SciPy, NumPy, Matplotlib, Pandas, SciKit, pROC, randomForest, ggplot2, dplyr, co
 #### Tools: 
 Power BI, Tableau, Access, Excel, Azure, AWS, SQL Server, Qlik
 
-### Old Projects
+#### Old Projects
 - [Numerical Solutions to Partial Differential Equations]()
 - [Financial Modelling and Projections]()
 - [Data Processing and Analysis using PySpark and PostgreSQL]()
