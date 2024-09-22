@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Profile
-I’m a well-versed and enthusiastic data analyst who is oriented towards problem solving through usage of data science. Throughout my education, work, and project experience, I've built a strong foundation in quantitative analysis, gaining proficiency in Python, R, and SQL. I have a relentless work ethic that is demonstrated by my ability to efficaciously succeed tight deadlines, adapt to new workflows, and thrive in collaborative environments, Shown by my Internship responsibility and university coursework. I excel at simplifying complex data for technical and non-technical audiences, striving for continuous self-improvement and excellence in delivering insightful solutions and education.
+I’m a well-versed and enthusiastic data analyst who is oriented towards problem solving through usage of data science. Throughout my education, work, and project experience, I've built a strong foundation in quantitative analysis, gaining proficiency in Python, R, and SQL. I have a relentless work ethic that is demonstrated by my ability to efficaciously succeed tight deadlines, adapt to new workflows, and thrive in collaborative environments and shown by my Internship responsibilities and university deadlines. I excel at simplifying complex data for technical and non-technical audiences, striving for continuous self-improvement and excellence in delivering insightful solutions and education.
 
 ### Projects
 - [Machine Learning Models for Detecting Credit Card Fraud]()
