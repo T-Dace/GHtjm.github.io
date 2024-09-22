@@ -1,19 +1,20 @@
 # Portfolio
 
 ### Profile
-I’m a well-versed and confident data analyst who is oriented towards data-driven problem solving. Throughout my education, work, and project experience, I've built a strong foundation in quantitative analysis, gaining proficiency in Python, R, and SQL. I have a relentless work ethic that is demonstrated by my ability to efficaciously succeed tight deadlines, adapt to new workflows, and thrive in collaborative environments. I excel at simplifying complex data for technical and non-technical audiences, striving for continuous self-improvement and excellence in delivering insightful solutions.
+I’m a well-versed and enthusiastic data analyst who is oriented towards problem solving through usage of data science. Throughout my education, work, and project experience, I've built a strong foundation in quantitative analysis, gaining proficiency in Python, R, and SQL. I have a relentless work ethic that is demonstrated by my ability to efficaciously succeed tight deadlines, adapt to new workflows, and thrive in collaborative environments, Shown by my Internship responsibility and university coursework. I excel at simplifying complex data for technical and non-technical audiences, striving for continuous self-improvement and excellence in delivering insightful solutions and education.
 
 ### Projects
-- [Predictive Models for Credit Fraud Prevention ](https://html-preview.github.io/?url=https://github.com/GHtjm/GHtjm.github.io/blob/main/creditcardfraudknit.html)
-- [World Population Growth Analysis](https://html-preview.github.io/?url=https://github.com/GHtjm/GHtjm.github.io/blob/main/world%20pop%20growth.py)
-- [Financial Modelling using Excel]() 
-- [PySpark Data Processing and SQL Analysis]()
-- [PowerBI Macroeconomics Dashboard]() 
-- [Numerical Solutions of Partial Differential Equations](https://github.com/GHtjm/GHtjm.github.io/blob/main/NUMERICAL%20PDEs.pdf) 
-- [Statistical Analysis of Car Manufacturers and Their Environmental Effects]()
+- [Machine Learning Models for Detecting Credit Card Fraud](Read Me)(Code)(Evaluation)
+- [COVID-19 Trend Analysis and Visualisations Dashboard](Read Me)(Code)(Evaluation)
+- [Optimising Business Data with SQL Database Manipulation](Read Me)(Code)(Evaluation)
+
 
 ### Education
-**BSC, Mathematics, 2:1 | Aberystwyth University**
+** BSC, Mathematics, 2:1 | Aberystwyth University **
+### Certification
+** Introduction to Machine Learning on AWS - AWS **
+** Machine learning and AI with Python - HarvardX **
+** Data visualisation and building Dashboards with Excel and Cognos - IBM **
 #### Relevent modules studied:
 - [Numerical Analysis](https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/)
 - [Applied Statistics](https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/)
@@ -23,35 +24,12 @@ I’m a well-versed and confident data analyst who is oriented towards data-driv
 - [Mathematical Models of Biological Systems](https://www.aber.ac.uk/en/modules/2022/MA34810/)
 
 ### Technical Skills
-Python, R, SQL
+Programming: Python, PySpark, R, SQL 
+Libraries: SciPy, NumPy, Matplotlib, Pandas, SciKit, pROC, randomForest, ggplot2, dplyr, corrplot, caret, ROCR, AdaBoost, CatBoost, XGBoost, LightGBM 
+Tools: Power BI, Tableau, Access, Excel, Azure, AWS, SQL Server, Qlik
+
 
 <hr size=20>
-
-# About me
-
-### What i'm currently working on:
-- A tool to determine cheapest local online takeaways (with a website to host it on)
-- A Fantasy premier league dashboard with a predictive modelling tool and multi-sourced data pipeline
-
-### What i'm currently studying: 
-- Advanced statistical analysis techniques for complex data
-- NoSQL (MongoDB)
-- Deep learning techniques
-- Technical Analysis
-
-### My Interests and Hobbies: 
-- Football (Wolverhampton Wanderers)
-- Boxing
-- Mixed Martial Arts
-- Poker
-- Gaming (Casual gaming with friends over competitive gaming now adays)
-- Investing and securities trading
-- Theoretical Physics and Philosophy
-
-### My 10 Year goals
-- Become fluent in atleast three different languages (Spanish/Arabic/Mandarin/Russian/German/Norweigan)
-- Begin work on developing a completely offgrid property, self-teaching the relevent trades needed to achieve it
-- Build towards a strong trading and investment portfolio 
 ###### References available upon request
 
 
