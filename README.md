@@ -4,7 +4,7 @@
 I’m a well-versed and enthusiastic data analyst who is oriented towards problem solving through usage of data science. Throughout my education, work, and project experience, I've built a strong foundation in quantitative analysis, gaining proficiency in Python, R, and SQL. I have a relentless work ethic that is demonstrated by my ability to efficaciously succeed tight deadlines, adapt to new workflows, and thrive in collaborative environments as shown by my Internship responsibilities and university deadlines. I excel at simplifying complex data for technical and non-technical audiences, striving for continuous self-improvement and excellence in delivering insightful solutions and education.
 
 ### Projects
-- [Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-for-credit-card-fraud-dete)
+- [Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)
 - [COVID-19 Trend Analysis and Visualisations Dashboard](https://github.com/GHtjm/COVID-19-Trend-Analysis-and-Visualisation-Dashboard)
 - [Optimising Business Data with SQL Database Manipulation](https://github.com/GHtjm/Optimising-Business-Data-with-SQL-Database-Manipulation) 
 
