@@ -23,21 +23,21 @@ BSc Mathematics 2:1,  Aberystwyth University
 
 
 #### Certifications:
-- Introduction to Machine Learning on AWS, AWS
+- Analyzing and Visualizing Data with Excel - Microsoft
 - Machine learning and AI with Python, HarvardX
-- Data visualisation and building Dashboards with Excel and Cognos, IBM
+- The Data Science Method - IBM
 
 <hr size=20>
 ### Technical Skills
 
 #### Programming: 
-- Python, PySpark, R, SQL
+- Python, R, SQL 
 
 #### Libraries: 
-- SciPy, NumPy, Matplotlib, Pandas, SciKit, pROC, randomForest, ggplot2, dplyr, corrplot, caret, ROCR, AdaBoost, CatBoost, XGBoost, LightGBM
+- NumPy, Pandas, seaborn, Matplotlib, Keras, PySpark, TensorFlow SciKit, SciPy, randomForest, AdaBoost, CatBoost, XGBoost, LightGBM
 
 #### Tools: 
-- Power BI, Tableau, Access, Excel, Azure, AWS, SQL Server, Qlik
+- Power BI, Tableau, Excel, Access, Azure, SQL Server
 
 <hr size=20>
 #### Old Projects
