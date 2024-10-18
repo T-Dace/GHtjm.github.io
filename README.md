@@ -5,7 +5,7 @@ I’m a well-versed and enthusiastic data analyst who is oriented towards proble
 
 ### Projects
 - [Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)
-- [COVID-19 Trend Analysis and Visualisations Dashboard](https://github.com/GHtjm/Retail-Sales-PowerBI)
+- [Retail Trends and KPIs PowerBI Dashboard](https://github.com/GHtjm/Retail-Sales-PowerBI)
 - [Optimising Business Data with SQL Database Manipulation](https://github.com/GHtjm/Optimising-Business-Data-with-SQL-Database-Manipulation) 
 
 
