@@ -20,7 +20,7 @@ BSc Mathematics 2:1,  Aberystwyth University
 - [Distributions and Estimation](https://www.aber.ac.uk/en/modules/deptcurrent/MA26010/AB1/)
 - [Numerical Solutions of Partial Differential Equations](https://www.aber.ac.uk/en/modules/2021/MA34710/)
 - [Graphs and Networks](https://www.aber.ac.uk/en/modules/deptcurrent/MA32410/AB2/)
-
+- [Linear Algebra](https://www.aber.ac.uk/en/modules/deptfuture/MA21410/AB2/)
 
 #### Certifications:
 - Analyzing and Visualizing Data with Excel - Microsoft
