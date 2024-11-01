@@ -1,5 +1,5 @@
 ### Who I am
-I graduated from Aberystwyth University in 2021 with a degree in Mathematics. I kick started my professional career in a banking graduate scheme before persuing a career in data science and landing my first internship at a local agricultural business as a business analyst, learning key business principles while working directly with the company director , while applying and developing my analytical skills.
+I graduated from Aberystwyth University in 2021 with a degree in Mathematics. I kick started my professional career in a banking graduate scheme before pursuing a career in data science and landing my first internship at a local agricultural business as a business analyst, learning key business principles while working directly with the company director , while applying and developing my analytical skills.
 I'm a life long student of Mathematics with keen interests in data driven solutions and scientific problem solving.
 The Tech industry is always evolving and I love being able to grow with it. I always embrace the opportunity to learn new things and develop ideas into practical solutions.
 
