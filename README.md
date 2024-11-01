@@ -1,9 +1,9 @@
-# Portfolio
+### Who I am
+I graduated from Aberystwyth University in 2021 with a degree in Mathematics. I kick started my professional career in a banking graduate scheme before persuing a career in data science and landing my first internship at a local agricultural business as a business analyst, learning directly under the company director key business principles, while applying and developing my analytical skills.
+I'm a life long student of Mathematics with keen interests in data driven solutions and scientific problem solving.
+The Tech industry is always evolving and I love being able to grow with it. I always embrace the opportunity to learn new things and develop ideas into practical solutions.
 
-### Profile
-I’m a well-versed and enthusiastic data analyst who is oriented towards problem solving through usage of data science. Throughout my education, work, and project experience, I've built a strong foundation in quantitative analysis, gaining proficiency in Python, R, and SQL. I have a relentless work ethic that is demonstrated by my ability to efficaciously succeed tight deadlines, adapt to new workflows, and thrive in collaborative environments as shown by my Internship responsibilities and university deadlines. I excel at simplifying complex data for technical and non-technical audiences, striving for continuous self-improvement and excellence in delivering insightful solutions and education.
-
-### Projects
+### My Projects
 - [Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)
 - [Retail Trends and KPIs PowerBI Dashboard](https://github.com/GHtjm/Retail-Sales-PowerBI)
 - [Optimising Business Data with SQL Database Manipulation](https://github.com/GHtjm/Optimising-Business-Data-with-SQL-Database-Manipulation) 
@@ -39,15 +39,5 @@ BSc Mathematics 2:1,  Aberystwyth University
 
 #### Tools: 
 - Power BI, Tableau, Excel, Access, Azure, SQL Server
-
-<hr size=20>
-#### Old Projects
-- [Numerical Solutions to Partial Differential Equations]()
-- [Financial Modelling and Projections]()
-- [Data Processing and Analysis using PySpark and PostgreSQL]()
-- [British Macroeconomics data analysis dashboard]()
-- [World population growth analysis]()
-- [University projects]()
-###### References available upon request
 
 
