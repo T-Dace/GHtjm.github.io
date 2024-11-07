@@ -34,7 +34,7 @@
 
 #### Certifications:
 - ##### Analyzing and Visualizing Data with Excel - Microsoft
-- ##### achine learning and AI with Python, HarvardX
+- ##### Machine learning and AI with Python, HarvardX
 - ##### The Data Science Method - IBM
 
 <hr size=20>
