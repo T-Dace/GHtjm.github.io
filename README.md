@@ -1,11 +1,4 @@
-### Who I am
-##### I graduated from Aberystwyth University in 2021 with a degree in Mathematics, kick starting my professional career in a banking graduate scheme before pursuing a career in data science and landing my first internship at a local agricultural business as a business analyst, learning key business principles while working directly with the company director, applying and developing my analytical skills.
-##### I'm a life long student of Mathematics with keen interests in data driven solutions and scientific problem solving.
-##### The Tech industry is always evolving and I love being able to grow with it. I always embrace the opportunity to learn new things and develop ideas into practical solutions.
-
-<hr size=20>
-
-### My Projects
+### Selected Projects in Data science, Machine Learning, and Data Visualisation
 [Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)
 
 ##### The aim of this project was to develop reliable machine learning models to detect fraud, while optimising each model to achieve strong precision and ROC scores to effectively identify fraudulent transactions while minimising false positives and errors. I preprocessed the data, chose each supervised model, and evaluated each one to optimise predictive performance. 
