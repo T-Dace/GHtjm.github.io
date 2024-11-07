@@ -6,12 +6,14 @@
 <hr size=20>
 
 ### My Projects
-[Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)![Code](Docs/assets/fa850d58252cf6972f9922c5fd00771c.png)
+[Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)
 
 ##### The aim of this project was to develop reliable machine learning models to detect fraud, while optimising each model to achieve strong precision and ROC scores to effectively identify fraudulent transactions while minimising false positives and errors. I preprocessed the data, chose each supervised model, and evaluated each one to optimise predictive performance. 
+![Code](Docs/assets/fa850d58252cf6972f9922c5fd00771c.png)
 
-[Retail Trends and KPIs PowerBI Dashboard](https://github.com/GHtjm/Retail-Sales-PowerBI)![Dashboard](Docs/assets/dashboard.png)
+[Retail Trends and KPIs PowerBI Dashboard](https://github.com/GHtjm/Retail-Sales-PowerBI)
 ##### I created PowerBI dashboards, making use of DAX queries to identify key performance indicators for the retail sales dataset which I selected, picking out and visualising KPIs that were calculatable from the dataset used. As well as templating the dashboard    to allow for easy replication for new data, with a variety of different templates and DAX queries for different KPI selections.
+![Dashboard](Docs/assets/dashboard.png)
 
 [Optimising Business Data with SQL Database Manipulation](https://github.com/GHtjm/Optimising-Business-Data-with-SQL-Database-Manipulation)
 ##### I utilised SQL queries to transform large datasets, subsequently improving the speed of querying data using a large business based dataset by (Node processing time ranging from (114ms - 380 ms with 225 ms average processing time to 57ms - 211 ms at 114ms average processing time, as the results show). Demonstrating a keen understanding of SQL querying and optimisation.
