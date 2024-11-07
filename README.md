@@ -3,6 +3,8 @@
 ##### I'm a life long student of Mathematics with keen interests in data driven solutions and scientific problem solving.
 ##### The Tech industry is always evolving and I love being able to grow with it. I always embrace the opportunity to learn new things and develop ideas into practical solutions.
 
+<hr size=20>
+
 ### My Projects
 [Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)
 
@@ -45,4 +47,5 @@
 #### Tools: 
 - ##### Power BI, Tableau, Excel, Access, Azure, SQL Server
 
+<hr size=20>
 
