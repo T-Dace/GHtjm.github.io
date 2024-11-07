@@ -6,8 +6,7 @@
 ### My Projects
 [Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)
 
-##### The aim of this project was to develop reliable machine learning models to detect fraud, while optimising each model to achieve strong precision and ROC scores to effectively identify fraudulent transactions while minimising false positives and errors.
-##### I preprocessed the data, chose each supervised model, and evaluated each one to optimise predictive performance. 
+##### The aim of this project was to develop reliable machine learning models to detect fraud, while optimising each model to achieve strong precision and ROC scores to effectively identify fraudulent transactions while minimising false positives and errors. I preprocessed the data, chose each supervised model, and evaluated each one to optimise predictive performance. 
 
 [Retail Trends and KPIs PowerBI Dashboard](https://github.com/GHtjm/Retail-Sales-PowerBI)
 ##### I created PowerBI dashboards, making use of DAX queries to identify key performance indicators for the retail sales dataset which I selected, picking out and visualising KPIs that were calculatable from the dataset used. As well as templating the dashboard    to allow for easy replication for new data, with a variety of different templates and DAX queries for different KPI selections.
