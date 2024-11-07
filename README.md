@@ -6,7 +6,7 @@
 <hr size=20>
 
 ### My Projects
-[Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)
+[Machine Learning Models for Detecting Credit Card Fraud](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)!(https://github.com/GHtjm/Retail-Sales-PowerBI/blob/main/dashboard.png)
 
 ##### The aim of this project was to develop reliable machine learning models to detect fraud, while optimising each model to achieve strong precision and ROC scores to effectively identify fraudulent transactions while minimising false positives and errors. I preprocessed the data, chose each supervised model, and evaluated each one to optimise predictive performance. 
 
