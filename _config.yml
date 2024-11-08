@@ -53,3 +53,5 @@ description: |
   <p style="font-size: 0.9em;">Power BI, Tableau, Excel, Access, Azure, SQL Server</p>
 
 theme: jekyll-theme-minimal
+sass:
+  style: Compressed
