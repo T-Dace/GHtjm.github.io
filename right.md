@@ -1,4 +1,7 @@
-## Education
+*** Education *** 
+### Education ###
+## Education ##
+---
 
 ---
 BSc Mathematics 2:1,  Aberystwyth University
