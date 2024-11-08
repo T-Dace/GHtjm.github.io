@@ -4,7 +4,7 @@
 
 Project Description being written up! Waiting on Portfolio Aesthetics
 
-![Code](assets/images/Classdistribution.png)
+![Code](assets/images/Graphs.png)
 
 [![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](#)
