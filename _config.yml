@@ -18,8 +18,6 @@ description: >
 
 theme: jekyll-theme-minimal
 
-colors:
-  crimson: '#900C3F'
 education:
   degree: "BSc Mathematics 2:1, Aberystwyth University"
   relevant_modules:
