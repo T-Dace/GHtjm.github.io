@@ -12,33 +12,23 @@
       <div class="container">
         <!-- Left Section -->
         <div class="side left">
-          {% assign left_page = site.pages | where: "path", "_left.md" | first %}
-          {% if left_page %}
-            <div class="section-content">
-              {{ left_page.content | markdownify }}
-            </div>
-          {% else %}
-            <p>Left section content goes here.</p>
-          {% endif %}
+          <div class="section-content">
+            {% include left.md %}
+          </div>
         </div>
 
         <!-- Main Section (Middle) -->
         <div class="main">
           <div class="section-content">
-            {{ content }} <!-- This will pull the content from the main page (usually index.md) -->
+            {{ content }}
           </div>
         </div>
 
         <!-- Right Section -->
         <div class="side right">
-          {% assign right_page = site.pages | where: "path", "_right.md" | first %}
-          {% if right_page %}
-            <div class="section-content">
-              {{ right_page.content | markdownify }}
-            </div>
-          {% else %}
-            <p>Right section content goes here.</p>
-          {% endif %}
+          <div class="section-content">
+            {% include right.md %}
+          </div>
         </div>
       </div>
     </div>
