@@ -15,6 +15,7 @@ Project Description
 
 
 [View on Kaggle](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)
+
 ---
 ### Retail Trends and KPIs PowerBI Dashboard
 
