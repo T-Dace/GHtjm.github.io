@@ -12,6 +12,8 @@ Project Description
 [![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#)
 [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+
+---
 [View on Kaggle](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud) [View on GitHub]()
 
 ### Retail Trends and KPIs PowerBI Dashboard
