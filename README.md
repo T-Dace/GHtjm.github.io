@@ -15,7 +15,7 @@ Project Description
 
 
 [View on Kaggle](https://www.kaggle.com/code/tom1123/machine-learning-models-to-detect-fraud)
-
+---
 ### Retail Trends and KPIs PowerBI Dashboard
 
 I created PowerBI dashboards, making use of DAX queries to identify key performance indicators for the retail sales dataset which I selected, picking out and visualising KPIs that were calculatable from the dataset used. As well as templating the dashboard    to allow for easy replication for new data, with a variety of different templates and DAX queries for different KPI selections.
