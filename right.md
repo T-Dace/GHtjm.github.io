@@ -1,8 +1,8 @@
 
 ## Education ##
----
 
 ---
+
 BSc Mathematics 2:1,  Aberystwyth University
 
 #### Relevant modules studied:
