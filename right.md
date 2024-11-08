@@ -1,5 +1,4 @@
-*** Education *** 
-### Education ###
+
 ## Education ##
 ---
 
