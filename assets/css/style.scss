@@ -3,33 +3,48 @@
 
 @import "{{ site.theme }}";
 
-/* Adjust overall page background */
 body {
     background-color: #999999;
+    margin: 0;
+    padding: 0;
 }
 
-/* Container for header and section */
+/* Container for the three sections */
 .container {
     display: flex;
-    justify-content: space-between; /* Space between header and section */
-    width: 100%; /* Full width of the viewport */
+    justify-content: space-between; /* Space between the sections */
+    width: 100vw; /* Full width of the viewport */
+    padding: 20px; /* Space around the sections */
+    box-sizing: border-box; /* To ensure padding doesn't affect overall width */
 }
 
-/* Adjust header/sidebar width */
-header {
-    width: 650px; /* Width of the header */
+/* Left and Right sections (shorter) */
+.side {
+    width: 250px; /* Set a smaller width for the left and right sections */
     padding: 10px;
     background-color: #f5f5f5;
-    margin-left: -380px;
-    /* No need for margins, flexbox handles spacing */
+    margin-top: 10px;
+    box-sizing: border-box;
 }
 
-/* Adjust main content area */
-section {
-    width: 900px; /* Adjust the width of the section */
+/* Left section */
+.side.left {
+    /* Additional styling for the left section */
+    margin-right: 10px;
+}
+
+/* Right section */
+.side.right {
+    /* Additional styling for the right section */
+    margin-left: 10px;
+}
+
+/* Main section (center) */
+.main {
+    width: 900px; /* Main section will be wider */
     padding: 20px;
     background-color: #f5f5f5;
     overflow-y: auto;
     max-height: 80vh;
-    margin-right: -380px;
+    box-sizing: border-box;
 }
