@@ -8,7 +8,7 @@ description: >
   <br><br>
 
   [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-m-498659333)
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
 
 colors:
   crimson: '#900C3F'
