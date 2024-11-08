@@ -1,52 +1,74 @@
-<div class="right-section">
-  {% if site.logo %}
-    <a href="{{ "/" | absolute_url }}"><img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" /></a>
-  {% endif %}
-  <h1><a href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a></h1>
-  {% if site.description %}
-    <p>{{ site.description }}</p>
-  {% endif %}
+title: Tom M
+logo: #
+description: |
+  <a href="https://www.linkedin.com/in/tom-m-498659333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-  {% if site.education %}
-    <h3>Education</h3>
-    {% for education in site.education %}
-      <p><strong>{{ education.degree }}</strong><br>
-      {{ education.school }}</p>
-      
-      <h4>Key Modules:</h4>
-      <ul style="list-style: none; padding-left: 0;">
-        {% for module in education.key_modules %}
-          <li><a href="{{ module.link }}">{{ module.name }}</a></li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
+  <a href="https://github.com/GHtjm">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  
+  <br>
+  I graduated from Aberystwyth University in 2021 with a degree in Mathematics, kick starting my professional career in a banking graduate scheme before pursuing a career in data science and landing my first internship at a local agricultural business as a business analyst, learning key business principles while working directly with the company director, applying and developing my analytical skills.
+  <br><br>
+  I'm a life long student of Mathematics with keen interests in data driven solutions and scientific problem solving.
+  <br><br>
 
-    {% if site.certifications %}
-      <h4>Certifications:</h4>
-      <ul style="list-style: none; padding-left: 0;">
-        {% for cert in site.certifications %}
-          <li>{{ cert.name }} - {{ cert.provider }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-  {% endif %}
+education:
+  - degree: BSc Mathematics 2:1
+    school: Aberystwyth University
+    key_modules:
+      - name: Applied Statistics
+        link: https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/
+      - name: Distributions and Estimation
+        link: https://www.aber.ac.uk/en/modules/deptcurrent/MA26010/AB1/
+      - name: Graphs and Networks
+        link: https://www.aber.ac.uk/en/modules/deptcurrent/MA32410/AB2/
+      - name: Linear Algebra
+        link: https://www.aber.ac.uk/en/modules/deptfuture/MA21410/AB2/
+      - name: Numerical Analysis
+        link: https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/
+      - name: Numerical Solutions of PDEs
+        link: https://www.aber.ac.uk/en/modules/2021/MA34710/
+      - name: Probability
+        link: https://www.aber.ac.uk/en/modules/deptcurrent/MA10310/AB1/
+      - name: Statistics
+        link: https://www.aber.ac.uk/en/modules/deptcurrent/MA11310/AB2/
+  certifications:
+    - name: Analyzing and Visualizing Data with Excel
+      provider: Microsoft
+    - name: Machine learning and AI with Python
+      provider: HarvardX
+    - name: The Data Science Method
+      provider: IBM
 
-  {% if site.technical_skills %}
-    <h3>Technical Skills</h3>
-    
-    {% if site.technical_skills.programming %}
-      <h4>Programming:</h4>
-      <p style="font-size: 0.9em;">{{ site.technical_skills.programming | join: ", " }}</p>
-    {% endif %}
+technical_skills:
+  programming:
+    - Python
+    - R
+    - SQL
+  libraries:
+    - NumPy
+    - Pandas
+    - seaborn
+    - Matplotlib
+    - Keras
+    - PySpark
+    - TensorFlow
+    - SciKit
+    - SciPy
+    - randomForest
+    - AdaBoost
+    - CatBoost
+    - XGBoost
+    - LightGBM
+  tools:
+    - Power BI
+    - Tableau
+    - Excel
+    - Access
+    - Azure
+    - SQL Server
 
-    {% if site.technical_skills.libraries %}
-      <h4>Libraries:</h4>
-      <p style="font-size: 0.9em;">{{ site.technical_skills.libraries | join: ", " }}</p>
-    {% endif %}
-
-    {% if site.technical_skills.tools %}
-      <h4>Tools:</h4>
-      <p style="font-size: 0.9em;">{{ site.technical_skills.tools | join: ", " }}</p>
-    {% endif %}
-  {% endif %}
-</div>
+theme: jekyll-theme-minimal
