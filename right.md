@@ -10,12 +10,6 @@ BSc Mathematics 2:1,  Aberystwyth University
 - [Probability](https://www.aber.ac.uk/en/modules/deptcurrent/MA10310/AB1/)
 - [Statistics](https://www.aber.ac.uk/en/modules/deptcurrent/MA11310/AB2/)
 
-
-#### Certifications:
-- Analyzing and Visualizing Data with Excel - Microsoft
-- Machine learning and AI with Python, HarvardX
-- The Data Science Method - IBM
-
 ### Technical Skills
 
 #### Programming: 
