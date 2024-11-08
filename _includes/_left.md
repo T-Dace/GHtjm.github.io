@@ -1,4 +1,4 @@
-{% capture left_content %}
-{% include_relative left_content.md %}
+{% capture left %}
+{% include_relative left.md %}
 {% endcapture %}
-{{ left_content | markdownify }}
+{{ leftt | markdownify }}
