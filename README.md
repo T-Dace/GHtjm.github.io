@@ -4,7 +4,7 @@
 
 * WIP - INSERT MAIN PROJECT DESCRIPTION, ADJUST HEADER + BODY SPACING, POTENTIALLY ADD A 3RD SECTION TO THE RIGHT OF THE BODY 
 
-![Code](Docs/assets/Classdistribution.png)
+![Code](assets/images/Classdistribution.png)
 
 [![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](#)
@@ -20,7 +20,7 @@
 
 I created PowerBI dashboards, making use of DAX queries to identify key performance indicators for the retail sales dataset which I selected, picking out and visualising KPIs that were calculatable from the dataset used. As well as templating the dashboard to allow for easy replication for new data, with a variety of different templates and DAX queries for different KPI selections.
 
-![Dashboard](Docs/assets/dashboard.png)
+![Dashboard](assets/images/dashboard.png)
 
 [![](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
 
