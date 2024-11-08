@@ -1,52 +1,52 @@
-title: Tom M
-logo: #
-description: |
-  <a href="https://www.linkedin.com/in/tom-m-498659333">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<div class="right-section">
+  {% if site.logo %}
+    <a href="{{ "/" | absolute_url }}"><img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" /></a>
+  {% endif %}
+  <h1><a href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a></h1>
+  {% if site.description %}
+    <p>{{ site.description }}</p>
+  {% endif %}
 
-  <a href="https://github.com/GHtjm">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
-  </a>
-  
-  <br>
-  I graduated from Aberystwyth University in 2021 with a degree in Mathematics, kick starting my professional career in a banking graduate scheme before pursuing a career in data science and landing my first internship at a local agricultural business as a business analyst, learning key business principles while working directly with the company director, applying and developing my analytical skills.
-  <br><br>
-  I'm a life long student of Mathematics with keen interests in data driven solutions and scientific problem solving.
-  <br><br>
-  <div class="right-section">
+  {% if site.education %}
     <h3>Education</h3>
-    <p><strong>BSc Mathematics 2:1</strong><br>
-    Aberystwyth University</p>
-  
-    <h4>Key Modules:</h4>
-    <ul style="list-style: none; padding-left: 0;">
-      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/">Applied Statistics</a></li>
-      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA26010/AB1/">Distributions and Estimation</a></li>
-      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA32410/AB2/">Graphs and Networks</a></li>
-      <li><a href="https://www.aber.ac.uk/en/modules/deptfuture/MA21410/AB2/">Linear Algebra</a></li>
-      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/">Numerical Analysis</a></li>
-      <li><a href="https://www.aber.ac.uk/en/modules/2021/MA34710/">Numerical Solutions of PDEs</a></li>
-      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA10310/AB1/">Probability</a></li>
-      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA11310/AB2/">Statistics</a></li>
-    </ul>
+    {% for education in site.education %}
+      <p><strong>{{ education.degree }}</strong><br>
+      {{ education.school }}</p>
+      
+      <h4>Key Modules:</h4>
+      <ul style="list-style: none; padding-left: 0;">
+        {% for module in education.key_modules %}
+          <li><a href="{{ module.link }}">{{ module.name }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
 
-    <h4>Certifications:</h4>
-    <ul style="list-style: none; padding-left: 0;">
-      <li>Analyzing and Visualizing Data with Excel - Microsoft</li>
-      <li>Machine learning and AI with Python, HarvardX</li>
-      <li>The Data Science Method - IBM</li>
-    </ul>
+    {% if site.certifications %}
+      <h4>Certifications:</h4>
+      <ul style="list-style: none; padding-left: 0;">
+        {% for cert in site.certifications %}
+          <li>{{ cert.name }} - {{ cert.provider }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endif %}
 
+  {% if site.technical_skills %}
     <h3>Technical Skills</h3>
-  
-    <h4>Programming:</h4>
-    <p style="font-size: 0.9em;">Python, R, SQL</p>
-  
-    <h4>Libraries:</h4>
-    <p style="font-size: 0.9em;">NumPy, Pandas, seaborn, Matplotlib, Keras, PySpark, TensorFlow, SciKit, SciPy, randomForest, AdaBoost, CatBoost, XGBoost, LightGBM</p>
-  
-    <h4>Tools:</h4>
-    <p style="font-size: 0.9em;">Power BI, Tableau, Excel, Access, Azure, SQL Server</p>
-  </div>
-theme: jekyll-theme-minimal
+    
+    {% if site.technical_skills.programming %}
+      <h4>Programming:</h4>
+      <p style="font-size: 0.9em;">{{ site.technical_skills.programming | join: ", " }}</p>
+    {% endif %}
+
+    {% if site.technical_skills.libraries %}
+      <h4>Libraries:</h4>
+      <p style="font-size: 0.9em;">{{ site.technical_skills.libraries | join: ", " }}</p>
+    {% endif %}
+
+    {% if site.technical_skills.tools %}
+      <h4>Tools:</h4>
+      <p style="font-size: 0.9em;">{{ site.technical_skills.tools | join: ", " }}</p>
+    {% endif %}
+  {% endif %}
+</div>
