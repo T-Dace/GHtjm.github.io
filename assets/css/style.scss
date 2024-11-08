@@ -40,3 +40,50 @@ section {
     overflow-y: auto;
     max-height: 80vh;
 }
+
+/* Style links to be more visible */
+a {
+    color: #267CB9;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #069;
+    text-decoration: underline;
+}
+
+/* Make theme responsive */
+@media print, screen and (max-width: 1200px) {
+    .wrapper {
+        width: auto;
+        margin: 0 20px;
+        flex-direction: column;
+    }
+    
+    header, .right-section, section {
+        width: auto;
+    }
+    
+    header, .right-section {
+        padding: 20px;
+    }
+    
+    section {
+        padding: 20px;
+        max-height: none;
+    }
+}
+
+/* Ensure project content is clearly separated */
+.projects {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #e5e5e5;
+}
+
+/* Add some spacing between project items if needed */
+.project-item {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e5e5e e5;
+}
