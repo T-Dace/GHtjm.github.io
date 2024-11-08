@@ -20,3 +20,56 @@ theme: jekyll-theme-minimal
 
 colors:
   crimson: '#900C3F'
+education:
+  degree: "BSc Mathematics 2:1, Aberystwyth University"
+  relevant_modules:
+    - name: "Applied Statistics"
+      url: "https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/"
+    - name: "Distributions and Estimation"
+      url: "https://www.aber.ac.uk/en/modules/deptcurrent/MA26010/AB1/"
+    - name: "Graphs and Networks"
+      url: "https://www.aber.ac.uk/en/modules/deptcurrent/MA32410/AB2/"
+    - name: "Linear Algebra"
+      url: "https://www.aber.ac.uk/en/modules/deptfuture/MA21410/AB2/"
+    - name: "Numerical Analysis"
+      url: "https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/"
+    - name: "Numerical Solutions of Partial Differential Equations"
+      url: "https://www.aber.ac.uk/en/modules/2021/MA34710/"
+    - name: "Probability"
+      url: "https://www.aber.ac.uk/en/modules/deptcurrent/MA10310/AB1/"
+    - name: "Statistics"
+      url: "https://www.aber.ac.uk/en/modules/deptcurrent/MA11310/AB2/"
+certifications:
+  - name: "Analyzing and Visualizing Data with Excel"
+    issuer: "Microsoft"
+  - name: "Machine learning and AI with Python"
+    issuer: "HarvardX"
+  - name: "The Data Science Method"
+    issuer: "IBM"
+technical_skills:
+  programming:
+    - Python
+    - R
+    - SQL
+  libraries:
+    - NumPy
+    - Pandas
+    - seaborn
+    - Matplotlib
+    - Keras
+    - PySpark
+    - TensorFlow
+    - SciKit
+    - SciPy
+    - randomForest
+    - AdaBoost
+    - CatBoost
+    - XGBoost
+    - LightGBM
+  tools:
+    - Power BI
+    - Tableau
+    - Excel
+    - Access
+    - Azure
+    - SQL Server
