@@ -1,2 +1,3 @@
-## TEST
-### TESTING RIGHT HAND SIDE
+<div>
+  {{ site.data.right_content | markdownify }}
+</div>
