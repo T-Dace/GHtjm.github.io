@@ -1,81 +1,82 @@
-/* Create this as assets/css/style.scss */
----
----
+@import "jekyll-theme-minimal";
 
-@import "{{ site.theme }}";
-
-/* Add soft background color to body */
+/* Adjust overall page background */
 body {
-  background-color: #eef2f7;  /* Light gray */
-  /* Alternative soft colors you might like:
-     #f0f4f8 (soft blue-gray)
-     #f7f7f2 (warm off-white)
-     #eef2f7 (cool gray)
-     #f0ebe8 (warm beige) */
+    background-color: #f4e4b4;
 }
 
-/* Style main content area */
-section {
-  width: 750px;
-  float: right;
-  padding-bottom: 50px;
-  background-color: #ffffff;  /* Keep content background white for contrast */
-  padding: 20px 40px;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-}
-
-/* Adjust header/sidebar */
-header {
-  width: 450px;
-  float: left;
-  position: fixed;
-  -webkit-font-smoothing: subpixel-antialiased;
-  padding: 30px;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  background-color: transparent;  /* Let it inherit the body background */
-}
-
-/* Adjust wrapper width */
+/* Adjust wrapper width and ensure it centers content */
 .wrapper {
-  width: 1100px;
-  margin: 0 auto;
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+}
+
+/* Adjust header section */
+header {
+    width: 350px;
+    position: static;
+    -webkit-font-smoothing: subpixel-antialiased;
+    padding: 0 20px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    background-color: #f5f5f5;
+}
+
+/* Adjust main content area */
+section {
+    width: 700px;
+    padding: 0 40px;
+    background-color: #f5f5f5;
+    overflow-y: auto;
+    max-height: 80vh;
+}
+
+/* Style links to be more visible */
+a {
+    color: #267CB9;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #069;
+    text-decoration: underline;
 }
 
 /* Make theme responsive */
-@media print, screen and (max-width: 1120px) {
-  .wrapper {
-    width: auto;
-    margin: 0;
-  }
-  
-  header, section {
-    float: none;
-    position: static;
-    width: auto;
-  }
-  
-  header {
-    padding-right: 320px;
-  }
-  
-  section {
-    border: 1px solid #e5e5e5;
-    border-width: 1px 0;
-    padding: 20px;
-    margin: 0 0 20px;
-    border-radius: 0;
-    box-shadow: none;
-  }
+@media print, screen and (max-width: 1200px) {
+    .wrapper {
+        width: auto;
+        margin: 0 20px;
+        flex-direction: column;
+    }
+    
+    header, .right-section, section {
+        width: auto;
+    }
+    
+    header, .right-section {
+        padding: 20px;
+    }
+    
+    section {
+        padding: 20px;
+        max-height: none;
+    }
 }
 
-@media print, screen and (max-width: 720px) {
-  header {
-    padding: 20px;
-  }
-  
-  section {
-    padding: 20px;
-  }
+/* Ensure project content is clearly separated */
+.projects {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #e5e5e5;
+}
+
+/* Add some spacing between project items if needed */
+.project-item {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e5e5e e5;
 }
