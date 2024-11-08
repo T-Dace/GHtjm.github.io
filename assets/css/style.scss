@@ -9,7 +9,15 @@ body {
     padding: 0;
     height: 100vh;
 }
-
+.wrapper {
+    width: 100%; /* Make it fill the screen horizontally */
+    max-width: 100%; /* Ensure it doesn’t get restricted to a smaller width */
+    min-width: 1400px; /* Ensure the wrapper stays at least 1400px wide (or any other width you prefer) */
+    margin: 0 auto; /* Center the wrapper */
+    padding: 20px; /* Optional, adjust as needed */
+    box-sizing: border-box; /* Include padding in the element's total width/height */
+    min-height: 100vh; /* Ensure the wrapper stretches to the full height of the viewport */
+}
 /* Container for the three sections */
 .container {
     display: flex;
