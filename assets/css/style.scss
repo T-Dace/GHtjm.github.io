@@ -7,13 +7,16 @@ body {
     background-color: #999999;
     margin: 0;
     padding: 0;
+    height: 100vh;
 }
 
 /* Container for the three sections */
 .container {
     display: flex;
     justify-content: space-between; /* Space between the sections */
-    width: 1400px; /* Full width of the viewport */
+    width:100%;
+    max-width: 1400px; /* Full width of the viewport */
+    margin: 0 auto;
     padding: 20px; /* Space around the sections */
     box-sizing: border-box; /* To ensure padding doesn't affect overall width */
 }
@@ -43,6 +46,7 @@ body {
     width: 900px; /* Main section will be wider */
     padding: 20px;
     background-color: #f5f5f5;
+    max-height:80vh;
     overflow-y: auto;
     max-height: 80vh;
     box-sizing: border-box;
