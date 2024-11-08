@@ -20,6 +20,7 @@ header {
     width: 650px; /* Width of the header */
     padding: 10px;
     background-color: #f5f5f5;
+    margin-left: -380px;
     /* No need for margins, flexbox handles spacing */
 }
 
@@ -30,4 +31,5 @@ section {
     background-color: #f5f5f5;
     overflow-y: auto;
     max-height: 80vh;
+    margin-right: -380px;
 }
