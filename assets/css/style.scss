@@ -5,37 +5,46 @@
 
 /* Adjust overall page background */
 body {
-    background-color: #eef2f7;
+    background-color: #f5f5f5;
 }
 
 /* Adjust wrapper width and ensure it centers content */
 .wrapper {
-    width: 1200px;  /* Increased overall width */
+    width: 1200px;
     margin: 0 auto;
     position: relative;
     padding: 0 20px;
 }
 
-/* Adjust header/sidebar width and ensure it stays in place */
+/* Adjust header section */
 header {
-    width: 270px;  /* Slightly reduced to prevent overlap */
+    width: 270px;
     float: left;
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased;
     padding: 30px 20px;
     word-wrap: break-word;
     overflow-wrap: break-word;
-    margin-right: 30px;  /* Add space between sidebar and content */
-    background-color: #f5f5f5;  /* Match body background */
+    margin-right: 30px;
+    background-color: #f5f5f5;
+}
+
+/* Add new middle section */
+.middle-section {
+    width: 270px;
+    float: left;
+    padding: 30px 20px;
+    background-color: #f5f5f5;
+    margin-right: 30px;
+    margin-left: 300px; /* Align with end of header */
 }
 
 /* Adjust main content area */
 section {
-    width: 800px;  /* Increased width */
+    width: 600px;
     float: right;
     padding: 20px 40px;
-    background-color: #f5f5f5;  /* Match body background */
-    margin-left: 300px;  /* Ensure content doesn't overlap with sidebar */
+    background-color: #f5f5f5;
 }
 
 /* Style links to be more visible */
@@ -57,7 +66,7 @@ a:hover, a:focus {
         padding: 0 20px;
     }
     
-    header, section {
+    header, .middle-section, section {
         float: none;
         position: static;
         width: auto;
@@ -68,8 +77,12 @@ a:hover, a:focus {
         margin-right: 0;
     }
     
-    section {
+    .middle-section {
+        padding: 20px;
         margin-left: 0;
+    }
+    
+    section {
         padding: 20px;
     }
 }
@@ -79,7 +92,7 @@ a:hover, a:focus {
         word-wrap: break-word;
     }
     
-    header {
+    header, .middle-section {
         padding: 20px;
         width: auto;
     }
