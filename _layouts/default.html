@@ -4,57 +4,33 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Tom's Portfolio</title>
-    
-    {% seo %}
+    <title>{{ site.title }}</title>
     <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    {% include head-custom.html %}
-    
-    <style>
-      /* Custom styling for footer */
-      footer {
-        text-align: center;
-        margin-top: 20px;
-        font-size: 0.8em;
-        color: #666;
-      }
-      
-      #credits {
-        /* Optional: Additional styling for the credits section */
-      }
-      
-      #credits .credits {
-        margin: 0 10px;
-      }
-    </style>
   </head>
   <body>
     <div class="wrapper">
-      <!-- Main content area -->
       <div class="container">
-        <!-- Left section -->
-        <section class="side left">
-          <h2>Tom's Portfolio</h2>
-          <!-- Content for the left section -->
-        </section>
-        
-        <!-- Main section (center) -->
-        <section class="main">
-          {{ content }}
-        </section>
-        
-        <!-- Right section -->
-        <section class="side right">
-          <h2></h2>
-          <!-- Content for the right section -->
-        </section>
+        <!-- Left Section (from _left.md) -->
+        <div class="side left">
+          <div class="section-content">
+            {{ content }}
+          </div>
+        </div>
+
+        <!-- Main Section (from _main.md) -->
+        <div class="main">
+          <div class="section-content">
+            {{ content }}
+          </div>
+        </div>
+
+        <!-- Right Section (from _right.md) -->
+        <div class="side right">
+          <div class="section-content">
+            {{ content }}
+          </div>
+        </div>
       </div>
     </div>
-
-    <footer>
-    </footer>
-
   </body>
 </html>
