@@ -1,1 +1,71 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+/* Adjust overall page background */
+body {
+    background-color: #f5f5f5;
+}
+
+/* Adjust wrapper width */
+.wrapper {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+/* Adjust header/sidebar width */
+header {
+    width: 300px;
+    float: left;
+    position: fixed;
+    -webkit-font-smoothing: subpixel-antialiased;
+    padding: 30px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Adjust main content area */
+section {
+    width: 750px;
+    float: right;
+    padding: 20px 40px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Make theme responsive */
+@media print, screen and (max-width: 1120px) {
+    .wrapper {
+        width: auto;
+        margin: 0;
+    }
+    
+    header, section {
+        float: none;
+        position: static;
+        width: auto;
+    }
+    
+    header {
+        padding-right: 320px;
+    }
+    
+    section {
+        padding: 20px;
+        margin: 0 0 20px;
+        border-radius: 0;
+        box-shadow: none;
+    }
+}
+
+@media print, screen and (max-width: 720px) {
+    header {
+        padding: 20px;
+    }
+    
+    section {
+        padding: 20px;
+    }
+}
