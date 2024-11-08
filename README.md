@@ -46,3 +46,34 @@ I utilised SQL queries to transform large datasets, subsequently improving the s
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
 
 [View on GitHub](https://github.com/GHtjm/Optimising-Business-Data-with-SQL-Database-Manipulation)
+
+---
+### Fantasy Premier League Power BI Dashboard
+
+I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a strong FPL selection. I used PowerShell to connect to the FPL API, ran and cleaned the data through Excel before inputting it into Power BI and making clean interactive visualisations.
+
+![FPL](assets/images/FPL1.png)
+
+[![](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+
+[View on GitHub](https://github.com/GHtjm/FPL-Dashboard)
+
+---
+### Older Projects
+#### Machine learning models on R
+[View on GitHub](https://github.com/GHtjm/R-machine-learning)
+
+#### Numerical Analysis of Partial Differential Equations
+[View on GitHub](https://github.com/GHtjm/PDEs)
+
+#### PySpark SQL Data Processing
+[View on GitHub](https://github.com/GHtjm/data-processing)
+
+#### Excel Financial Modelling
+[View on GitHub](https://github.com/GHtjm/Financial-Modelling-Excel)
+
+#### Python World Population Growth EDA
+[View on GitHub](https://github.com/GHtjm/World-population-growth-EDA)
+
+#### Useful Functions and equations for Data Science
+[View on GitHub](https://github.com/GHtjm/learning)
