@@ -2,7 +2,7 @@
 ---
 ### Machine Learning Models for Detecting Credit Card Fraud
 
-* WIP - INSERT MAIN PROJECT DESCRIPTION, ADJUST HEADER + BODY SPACING, POTENTIALLY ADD A 3RD SECTION TO THE RIGHT OF THE BODY 
+Project Description being written up! Waiting on Portfolio Aesthetics
 
 ![Code](assets/images/Classdistribution.png)
 
