@@ -1,3 +1,7 @@
+theme: jekyll-theme-minimal
+sass:
+  style: Compressed
+  
 title: Tom M
 logo: #
 description: |
@@ -52,6 +56,3 @@ description: |
   <h4>Tools:</h4>
   <p style="font-size: 0.9em;">Power BI, Tableau, Excel, Access, Azure, SQL Server</p>
 
-theme: jekyll-theme-minimal
-sass:
-  style: Compressed
