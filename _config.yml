@@ -55,4 +55,12 @@ description: |
   
   <h4>Tools:</h4>
   <p style="font-size: 0.9em;">Power BI, Tableau, Excel, Access, Azure, SQL Server</p>
+  
+left_content: |
+  # Left Section Content
+  This is the content for the left section.
+
+right_content: |
+  # Right Section Content
+  This is the content for the right section.
 
