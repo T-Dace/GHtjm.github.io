@@ -8,38 +8,53 @@ body {
     background-color: #f5f5f5;
 }
 
-/* Adjust wrapper width */
+/* Adjust wrapper width and ensure it centers content */
 .wrapper {
-    width: 1100px;
+    width: 1200px;  /* Increased overall width */
     margin: 0 auto;
+    position: relative;
+    padding: 0 20px;
 }
 
-/* Adjust header/sidebar width */
+/* Adjust header/sidebar width and ensure it stays in place */
 header {
-    width: 300px;
+    width: 270px;  /* Slightly reduced to prevent overlap */
     float: left;
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased;
-    padding: 30px;
+    padding: 30px 20px;
     word-wrap: break-word;
     overflow-wrap: break-word;
+    margin-right: 30px;  /* Add space between sidebar and content */
+    background-color: #f5f5f5;  /* Match body background */
 }
 
 /* Adjust main content area */
 section {
-    width: 750px;
+    width: 800px;  /* Increased width */
     float: right;
     padding: 20px 40px;
-    background-color: #ffffff;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    background-color: #f5f5f5;  /* Match body background */
+    margin-left: 300px;  /* Ensure content doesn't overlap with sidebar */
+}
+
+/* Style links to be more visible */
+a {
+    color: #267CB9;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #069;
+    text-decoration: underline;
 }
 
 /* Make theme responsive */
-@media print, screen and (max-width: 1120px) {
+@media print, screen and (max-width: 1200px) {
     .wrapper {
         width: auto;
         margin: 0;
+        padding: 0 20px;
     }
     
     header, section {
@@ -49,23 +64,46 @@ section {
     }
     
     header {
-        padding-right: 320px;
+        padding: 20px;
+        margin-right: 0;
     }
     
     section {
+        margin-left: 0;
         padding: 20px;
-        margin: 0 0 20px;
-        border-radius: 0;
-        box-shadow: none;
     }
 }
 
 @media print, screen and (max-width: 720px) {
+    body {
+        word-wrap: break-word;
+    }
+    
     header {
         padding: 20px;
+        width: auto;
     }
     
     section {
         padding: 20px;
+        width: auto;
     }
+    
+    pre, code {
+        word-wrap: normal;
+    }
+}
+
+/* Ensure project content is clearly separated */
+.projects {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #e5e5e5;
+}
+
+/* Add some spacing between project items if needed */
+.project-item {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e5e5e5;
 }
