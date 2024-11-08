@@ -13,36 +13,43 @@ description: |
   I graduated from Aberystwyth University in 2021 with a degree in Mathematics, kick starting my professional career in a banking graduate scheme before pursuing a career in data science and landing my first internship at a local agricultural business as a business analyst, learning key business principles while working directly with the company director, applying and developing my analytical skills.
   <br><br>
   I'm a life long student of Mathematics with keen interests in data driven solutions and scientific problem solving.
+  <br><br>
 
-right_section:
-  education:
-    title: Education
-    content: |
-      <p><strong>BSc Mathematics 2:1</strong><br>
-      Aberystwyth University</p>
 
-      <h4>Key Modules:</h4>
-      <ul style="list-style: none; padding-left: 0;">
-        <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/">Applied Statistics</a></li>
-        # ... other module links
-      </ul>
+  
+  <div class="right-section">
+    <h3>Education</h3>
+    <p><strong>BSc Mathematics 2:1</strong><br>
+    Aberystwyth University</p>
+  
+    <h4>Key Modules:</h4>
+    <ul style="list-style: none; padding-left: 0;">
+      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/">Applied Statistics</a></li>
+      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA26010/AB1/">Distributions and Estimation</a></li>
+      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA32410/AB2/">Graphs and Networks</a></li>
+      <li><a href="https://www.aber.ac.uk/en/modules/deptfuture/MA21410/AB2/">Linear Algebra</a></li>
+      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA25220/">Numerical Analysis</a></li>
+      <li><a href="https://www.aber.ac.uk/en/modules/2021/MA34710/">Numerical Solutions of PDEs</a></li>
+      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA10310/AB1/">Probability</a></li>
+      <li><a href="https://www.aber.ac.uk/en/modules/deptcurrent/MA11310/AB2/">Statistics</a></li>
+    </ul>
 
-      <h4>Certifications:</h4>
-      <ul style="list-style: none; padding-left: 0;">
-        <li>Analyzing and Visualizing Data with Excel - Microsoft</li>
-        # ... other certifications
-      </ul>
+    <h4>Certifications:</h4>
+    <ul style="list-style: none; padding-left: 0;">
+      <li>Analyzing and Visualizing Data with Excel - Microsoft</li>
+      <li>Machine learning and AI with Python, HarvardX</li>
+      <li>The Data Science Method - IBM</li>
+    </ul>
 
-  technical_skills:
-    title: Technical Skills
-    content: |
-      <h4>Programming:</h4>
-      <p style="font-size: 0.9em;">Python, R, SQL</p>
-
-      <h4>Libraries:</h4>
-      <p style="font-size: 0.9em;">NumPy, Pandas, # ... other libraries</p>
-
-      <h4>Tools:</h4>
-      <p style="font-size: 0.9em;">Power BI, Tableau, # ... other tools</p>
-
+    <h3>Technical Skills</h3>
+  
+    <h4>Programming:</h4>
+    <p style="font-size: 0.9em;">Python, R, SQL</p>
+  
+    <h4>Libraries:</h4>
+    <p style="font-size: 0.9em;">NumPy, Pandas, seaborn, Matplotlib, Keras, PySpark, TensorFlow, SciKit, SciPy, randomForest, AdaBoost, CatBoost, XGBoost, LightGBM</p>
+  
+    <h4>Tools:</h4>
+    <p style="font-size: 0.9em;">Power BI, Tableau, Excel, Access, Azure, SQL Server</p>
+  </div>
 theme: jekyll-theme-minimal
