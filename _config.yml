@@ -7,7 +7,9 @@ description: >
   I’m a life long student of Mathematics with keen interests in data driven solutions and scientific problem solving.
   <br><br>
 
-  [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-m-498659333)
+  <a href="https://www.linkedin.com/in/tom-m-498659333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 theme: jekyll-theme-minimal
 
 colors:
