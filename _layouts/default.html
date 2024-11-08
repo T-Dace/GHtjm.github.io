@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ site.title }}</title>
+
     <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
     <div class="wrapper">
       <div class="container">
+
         <!-- Left Section -->
         <div class="side left">
           <div class="section-content">
-            <h2>Left Section</h2>
-            <p>This is the content for the left section of the portfolio page.</p>
+            {% include left.html %}
           </div>
         </div>
 
@@ -28,8 +28,7 @@
         <!-- Right Section -->
         <div class="side right">
           <div class="section-content">
-            <h2>Right Section</h2>
-            <p>This is the content for the right section of the portfolio page.</p>
+            {% include right.html %}
           </div>
         </div>
       </div>
