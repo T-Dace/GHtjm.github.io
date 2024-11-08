@@ -1,11 +1,11 @@
 ## Selected Projects in Data science, Machine Learning, and Data Visualisation
 ---
 ### Machine Learning Models for Detecting Credit Card Fraud
-I began by inspecting the dataset ensuring that it was as described (The dataset has a kaggle usability rating of 8.53 which is strong but not perfect). Other than having to keep in mind the expected class imbalance (Non fraud >>> Fraud) the dataset passed the eye test on Excel.
+I began by inspecting the dataset ensuring that it was as described.
 
 I moved on to exploratory data analysis to retrieve general statistical data and visualisations of the dataset to ensure the data was clean and that no values were missing. I proceeded with a correlation heat map to explore the relationship between features, seeing specifically which features share a correlation, which would indicate redundancy that could lead to affecting the performance of some of the models I wish to test.
 ![Graphs](assets/images/Graphs.png)
-After being satisfied with the EDA I split my data into training and testing sets at an 80%:20% ratio (1) and incorporating a standard scaler (an ML technique which improves gradient based models by normalising feature scales so that models converge quicker during training, leading to more stabile and faster computations). (2) 
+After being satisfied with the EDA I split my data into training and testing sets at an 80%:20% ratio and incorporating a standard scaler (a ML technique which improves gradient based models by normalising feature scales so that models converge quicker during training, leading to more stabile and faster computations).  
 
 I developed 4 machine learning models to test on this dataset, a Random Forest model, A Logistic Regression model, an XGBoost model, and a Neural Network Model.
 
