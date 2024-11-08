@@ -51,7 +51,7 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 ---
 ### Older Projects
 #### Machine learning models with R
-[View Markdown](https://github.com/GHtjm/GHtjm.github.io/assets/docs/creditcardfraudknit.html)
+[View Markdown](https://github.com/GHtjm/GHtjm.github.io/blob/main/assets/docs/creditcardfraudknit.html)
 
 #### Numerical Analysis of Partial Differential Equations
 [View on GitHub](https://github.com/GHtjm/PDEs)
