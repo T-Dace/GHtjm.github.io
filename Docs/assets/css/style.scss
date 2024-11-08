@@ -4,28 +4,43 @@
 
 @import "{{ site.theme }}";
 
-/* Adjust wrapper width for Minimal theme */
-.wrapper {
-  width: 1100px;  /* Increase overall width */
-  margin: 0 auto;
+/* Add soft background color to body */
+body {
+  background-color: #f5f5f5;  /* Light gray */
+  /* Alternative soft colors you might like:
+     #f0f4f8 (soft blue-gray)
+     #f7f7f2 (warm off-white)
+     #eef2f7 (cool gray)
+     #f0ebe8 (warm beige) */
 }
 
-/* Adjust section width */
+/* Style main content area */
 section {
-  width: 750px;  /* Increase main content width */
+  width: 750px;
   float: right;
   padding-bottom: 50px;
+  background-color: #ffffff;  /* Keep content background white for contrast */
+  padding: 20px 40px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
-/* Adjust header/sidebar width */
+/* Adjust header/sidebar */
 header {
-  width: 500px;  /* Increase sidebar width */
+  width: 300px;
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
   padding: 30px;
-  word-wrap: break-word;  /* Prevent text overflow */
+  word-wrap: break-word;
   overflow-wrap: break-word;
+  background-color: transparent;  /* Let it inherit the body background */
+}
+
+/* Adjust wrapper width */
+.wrapper {
+  width: 1100px;
+  margin: 0 auto;
 }
 
 /* Make theme responsive */
@@ -48,8 +63,10 @@ header {
   section {
     border: 1px solid #e5e5e5;
     border-width: 1px 0;
-    padding: 20px 0;
+    padding: 20px;
     margin: 0 0 20px;
+    border-radius: 0;
+    box-shadow: none;
   }
 }
 
