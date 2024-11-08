@@ -1,4 +1,4 @@
-### Education
+Education
 BSc Mathematics 2:1,  Aberystwyth University
 #### Relevant modules studied:
 - [Applied Statistics](https://www.aber.ac.uk/en/modules/deptcurrent/MA26600/AB1/)
