@@ -8,66 +8,26 @@ body {
     background-color: #999999;
 }
 
-/* Adjust wrapper width */
-.wrapper {
-    width: 100%;
-    max-width: 1400px;
-    margin: 10%;
+/* Container for header and section */
+.container {
     display: flex;
-    justify-content: space-between;
-    padding: 20px 0;
+    justify-content: space-between; /* Space between header and section */
+    width: 100%; /* Full width of the viewport */
 }
 
 /* Adjust header/sidebar width */
 header {
-    width: 400px;
-    padding: 0 30px;
+    width: 650px; /* Width of the header */
+    padding: 10px;
     background-color: #f5f5f5;
-    margin-right: 10%;
+    /* No need for margins, flexbox handles spacing */
 }
 
 /* Adjust main content area */
 section {
-    width: calc(100% - 450px);
-    padding: 0 20px;
+    width: 900px; /* Adjust the width of the section */
+    padding: 20px;
     background-color: #f5f5f5;
     overflow-y: auto;
     max-height: 80vh;
-    margin:10%;
-}
-
-/* Make theme responsive */
-@media print, screen and (max-width: 1200px) {
-    .wrapper {
-        flex-direction: column;
-        width: auto;
-        margin: 0;
-    }
-    
-    header, section {
-        width: auto;
-        margin: 0;
-        padding: 20px;
-    }
-    
-    header {
-        padding-right: 320px;
-    }
-    
-    section {
-        padding: 20px;
-        margin: 0 0 20px;
-        border-radius: 0;
-        box-shadow: none;
-    }
-}
-
-@media print, screen and (max-width: 720px) {
-    header {
-        padding: 20px;
-    }
-    
-    section {
-        padding: 20px;
-    }
 }
