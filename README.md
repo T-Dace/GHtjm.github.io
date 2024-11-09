@@ -57,6 +57,7 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 
 [View on GitHub](https://htmlpreview.github.io/?https://github.com/GHtjm/GHtjm.github.io/blob/main/assets/docs/creditcardfraudknit.html)
 
+---
 ### Python World Population Growth EDA
 
 ![](assets/images/arima.png)
@@ -66,6 +67,7 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 
 [View on Kaggle](https://www.kaggle.com/code/tom1123/world-population-growth-eda?scriptVersionId=206181771)
 
+---
 ### Useful Functions and equations for Data Science
 [View on GitHub](https://github.com/GHtjm/Resources)
 
@@ -79,6 +81,7 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 
 [View on GitHub](https://github.com/GHtjm/University-Projects)
 
+---
 ### Numerical solutions to Partial Differential Equations
 
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
