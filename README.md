@@ -2,6 +2,8 @@
 ---
 ### Machine Learning Models for Detecting Credit Card Fraud
 Credit Card Fraud is more prevalent in today's society than at any point in our digital history where over £551 million pounds was lost to credit, debit and payment card fraud in the UK last year alone. I built a Random Forest model, an XGBoost model, a Logistic Regression model, and developed a Multilayer Perceptron Neural Network model using Python to explore and detect fraud.
+
+#### Neural Network Performance Metrics
 ![Graphs](assets/images/Graphs.png)
 
 ![NNresult](assets/images/NNresult.png)
