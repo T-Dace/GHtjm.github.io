@@ -58,7 +58,12 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 [View on GitHub](https://htmlpreview.github.io/?https://github.com/GHtjm/GHtjm.github.io/blob/main/assets/docs/creditcardfraudknit.html)
 
 ### Python World Population Growth EDA
-[View on Kaggle](https://github.com/GHtjm/World-population-growth-EDA)
+
+[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
+[![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+[View on Kaggle](https://www.kaggle.com/code/tom1123/world-population-growth-eda?scriptVersionId=206181771)
 
 ### Useful Functions and equations for Data Science
 [View on GitHub](https://github.com/GHtjm/Resources)
@@ -69,6 +74,7 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 
 ![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 [View on GitHub](https://github.com/GHtjm/University-Projects)
 
