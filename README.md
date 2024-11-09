@@ -73,6 +73,8 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 
 ---
 ## University projects
+
+---
 ### A statistical analysis of car manufacturers and their environmental impact
 
 ![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
