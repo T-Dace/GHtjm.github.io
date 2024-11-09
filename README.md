@@ -56,12 +56,6 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 #### Numerical Analysis of Partial Differential Equations
 [View on GitHub](https://github.com/GHtjm/PDEs)
 
-#### PySpark SQL Data Processing
-[View on GitHub](https://github.com/GHtjm/data-processing)
-
-#### Excel Financial Modelling
-[View on GitHub](https://github.com/GHtjm/Financial-Modelling-Excel)
-
 #### Python World Population Growth EDA
 [View on GitHub](https://github.com/GHtjm/World-population-growth-EDA)
 
