@@ -54,19 +54,26 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 #### Machine learning models with R
 [View on GitHub](https://htmlpreview.github.io/?https://github.com/GHtjm/GHtjm.github.io/blob/main/assets/docs/creditcardfraudknit.html)
 [![](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+
+---
 #### University projects
 ##### A statistical analysis of car manufacturers and their environmental impact
 
 ![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+[View on GitHub](https://github.com/GHtjm/University-Projects)
+
 ##### Numerical solutions to Partial Differential Equations
+
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 [View on GitHub](https://github.com/GHtjm/University-Projects)
 
+---
 #### Python World Population Growth EDA
 [View on Kaggle](https://github.com/GHtjm/World-population-growth-EDA)
 
