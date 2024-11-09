@@ -60,9 +60,9 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 ### Python World Population Growth EDA
 
 ![](assets/images/arima.png)
-[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)(#)
-[![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-[![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 [View on Kaggle](https://www.kaggle.com/code/tom1123/world-population-growth-eda?scriptVersionId=206181771)
 
