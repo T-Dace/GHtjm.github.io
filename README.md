@@ -52,8 +52,11 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 ---
 ### Older Projects
 #### Machine learning models with R
+
+![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 [View on GitHub](https://htmlpreview.github.io/?https://github.com/GHtjm/GHtjm.github.io/blob/main/assets/docs/creditcardfraudknit.html)
-[![](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+
 
 ---
 #### University projects
