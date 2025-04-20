@@ -36,7 +36,7 @@ I utilised SQL queries to transform large datasets, subsequently improving the s
 [![](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
 
-[View on GitHub](https://github.com/GHtjm/Optimising-Business-Data-with-SQL-Database-Manipulation)
+[View on GitHub](https://github.com/T-Dace/Optimising-Business-Data-with-SQL-Database-Manipulation)
 
 ---
 ### Fantasy Premier League Power BI Dashboard
@@ -47,7 +47,7 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 
 [![](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
 
-[View on GitHub](https://github.com/GHtjm/FPL-Dashboard)
+[View on GitHub](https://github.com/T-Dace/FPL-Dashboard)
 
 ---
 ## Older Projects
@@ -55,7 +55,7 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 
 ![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-[View on GitHub](https://htmlpreview.github.io/?https://github.com/GHtjm/GHtjm.github.io/blob/main/assets/docs/creditcardfraudknit.html)
+[View on GitHub](https://htmlpreview.github.io/?https://github.com/T-Dace/T-Dace.github.io/blob/main/assets/docs/creditcardfraudknit.html)
 
 ---
 ### Python World Population Growth EDA
@@ -69,7 +69,7 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 
 ---
 ### Useful Functions and equations for Data Science
-[View on GitHub](https://github.com/GHtjm/Resources)
+[View on GitHub](https://github.com/T-Dace/Resources)
 
 ---
 ## University projects
@@ -91,5 +91,5 @@ I created an FPL dashboard using PowerBI, Using DAX queries to create KPIs for a
 ![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-[View on GitHub](https://github.com/GHtjm/University-Projects)
+[View on GitHub](https://github.com/T-Dace/University-Projects)
 
