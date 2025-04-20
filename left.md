@@ -1,4 +1,4 @@
-## Tom M's Portfolio
+## Tom Dace's Portfolio
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-m-498659333)
 [![](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/GHtjm)
 
